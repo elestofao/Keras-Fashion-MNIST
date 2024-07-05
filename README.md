@@ -13,7 +13,7 @@ Estas instrucciones proporcionan una copia del proyecto en funcionamiento para f
     pip install tensorflow
     pip install keras==3.1.1
 
-**Paso 2. Clonar el repositorio**
+**Paso 2. Clonar el repositorio.**
 
     git clone https://github.com/elestofao/Keras-Fashion-MNIST.git
 
